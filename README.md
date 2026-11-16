@@ -1,7 +1,8 @@
-**Grundlagen der Anwendungsentwicklung A4**
+# **Grundlagen der Anwendungsentwicklung A4**
 **Submitted by 108838**
-Introduction to Pandas DataFrames – Replicating an article in Markdown
 
+Introduction to Pandas DataFrames – Replicating an article in Markdown
+---
 Involved Files:
 |File         |Description                                                     |
 |:---         |:---                                                            |
